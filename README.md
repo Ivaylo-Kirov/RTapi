@@ -1,1 +1,1 @@
-axios get api > component did mount puts it into state > render waits until it's ready and maps it into <li>s > return then includes the array with <li>s inside <ul>
+axios get api > component did mount puts it into state > render waits until it's ready and maps it into LIs > return then includes the array with LIs inside UL
